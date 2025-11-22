@@ -23,6 +23,7 @@ I'm a **recent Physics & Astrophysics graduate** with a strong interest in **dat
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032" height="30" />
   <img src="https://img.shields.io/badge/-Jupyter-FA5C2F?style=flat&logo=jupyter&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white" height="30" />
 </p>
 
 - **Programming & Data Analysis:** Python, NumPy, Pandas, Matplotlib, Seaborn  
