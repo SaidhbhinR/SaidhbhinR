@@ -7,7 +7,7 @@ I'm a **recent Physics & Astrophysics graduate** with a strong interest in **dat
 ## About Me
 
 - 🎓 Recent graduate in **Physics & Astrophysics**  
-- 💻 Skilled in **Python**, data analysis, and statistical modeling  
+- 💻 Skilled in **Python**, data analysis, and statistical modeling, growing knowledge in **SQL**  
 - 🌌 Experienced in projects like **exoplanet transit detection using Gaussian Processes**  
 - 🚀 Passionate about applying scientific and analytical skills to real-world data challenges  
 - 🌱 Always learning new tools and techniques in **data science and machine learning**  
